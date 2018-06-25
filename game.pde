@@ -1,4 +1,4 @@
-lass Game {
+class Game {
   String getJankenResult(String hand) {
     String cpuHand = this.desideCpuHand();
 
